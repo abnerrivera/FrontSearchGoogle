@@ -1,0 +1,28 @@
+.infoAll{
+  flex-direction: column;
+  width: 50%;
+  display: flex;
+  align-items: center;
+
+  &__result{
+    width: 80%;
+    color: #bdc1c6;
+    display: flex;
+    margin-top: 60px;
+
+    &--text{
+      display: flex;
+      flex-direction: column;
+
+      &--title{
+        font-size: 20px;
+      }
+    }
+
+    img{
+      width: 100px;
+      margin: 0 0 0 15px;
+      border-radius: 20px;
+    }
+  }
+}

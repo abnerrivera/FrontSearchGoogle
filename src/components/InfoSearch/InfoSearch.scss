@@ -1,0 +1,16 @@
+@import './InfoAll/InfoAll.scss';
+@import './InfoSpecific/InfoSpecific.scss';
+@import './AccordionData/AccordionData.scss';
+
+.info {
+  display: flex;
+ 
+
+  a {
+    color: #8ab4f8;
+
+    // &:visited {
+    //   color: #c58af9;
+    // }
+  }
+}
