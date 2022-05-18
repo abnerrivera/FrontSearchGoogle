@@ -14,10 +14,10 @@ const InfoSpecific = () => {
 
         <div className="infoSpecific__Card--galeri">
 
-          <img src={img1} alt="img" />
-          <img src={img2} alt="img" />
-          <img src={img3} alt="img" />
-          <img src={img4} alt="img" style={{objectFit:'cover', width:'309px'}}/>
+          <img src={img1} alt="img" style={{objectFit:'cover', width:'190px'}}/>
+          <img src={img2} alt="img" style={{objectFit:'cover', width:'209px'}}/>
+          <img src={img3} alt="img" style={{objectFit:'cover', width:'109px'}}/>
+          <img src={img4} alt="img" style={{objectFit:'cover', width:'289px'}}/>
 
         </div>
 
